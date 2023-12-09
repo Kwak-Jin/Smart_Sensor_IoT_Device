@@ -1,0 +1,6 @@
+% ***** LAST DEVELOPER UPDATE : PWH 19.06.07  ***** %
+function [w_L w_R] = CmdCarModel(V_in_L, V_in_R)
+    % Converting Input Signal(Sensor) to Command Signal(Car)
+    if  V_in_L >su
+
+end
